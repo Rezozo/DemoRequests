@@ -23,6 +23,8 @@
 
 ## Блок-схемы
 
+<a href="https://ibb.co/pXFmqXP"><img src="https://i.ibb.co/4NrQkNf/block.png" alt="block" border="0"></a>
+
 ## Интерфейс
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/m47cqBn/e1.png" alt="e1" border="0"></a>
